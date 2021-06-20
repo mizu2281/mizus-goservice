@@ -1,2 +1,2 @@
 # mizus-goservice
-arnlabs go service implementations
+arnlabs go service implementation
